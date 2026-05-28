@@ -1,0 +1,12 @@
+<svg width="800" height="60" viewBox="0 0 800 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="wave-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#090A0F" stop-opacity="1" />
+      <stop offset="30%" stop-color="#D97706" stop-opacity="0.6" />
+      <stop offset="50%" stop-color="#7C3AED" stop-opacity="0.5" />
+      <stop offset="70%" stop-color="#10B981" stop-opacity="0.4" />
+      <stop offset="100%" stop-color="#090A0F" stop-opacity="1" />
+    </linearGradient>
+  </defs>
+  <path d="M 0 30 C 150 10, 250 50, 400 30 C 550 10, 650 50, 800 30 L 800 60 L 0 60 Z" fill="url(#wave-grad)" />
+</svg>
